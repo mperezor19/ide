@@ -70,8 +70,8 @@
   <project href="http://devonfw.github.io/devonfw-locale/oomph/projects/DevonfwLocale.setup#/"/>
   <project href="http://devonfw.github.io/module-owasp-appsensor/oomph/projects/ModuleOwaspAppsensor.setup#/"/>
   <project href="http://devonfw.github.io/module-ruleengine/oomph/projects/ModuleRuleengine.setup#/"/>
-  <project href="http://devonfw.github.io/tools-cobigen/oomph/projects/CobiGen.setup#/"/>
-  <project href="http://devonfw.github.io/tools-cobigen/oomph/projects/CobiGenOomph.setup#/"/>
+  <project href="http://devonfw.github.io/cobigen/oomph/projects/CobiGen.setup#/"/>
+  <project href="http://devonfw.github.io/cobigen/oomph/projects/CobiGenOomph.setup#/"/>
   <project href="http://devonfw.github.io/training-devon-server/oomph/projects/TrainingDevonServer.setup#/"/>
   <project href="user:/MyProjects.setup?name='user.project',label='&lt;User>',description='A container project for local user projects that are virtual members of the My Projects project catalog'#/"/>
   <description>provides projects from the devonfw project</description>
